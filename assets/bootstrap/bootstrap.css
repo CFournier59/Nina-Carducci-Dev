@@ -5750,7 +5750,7 @@ textarea.form-control-lg {
   padding: 0;
   color: #fff;
   text-align: center;
-  background: none;
+  background-color: rgba(0, 0, 0, 0.01);
   border: 0;
   opacity: 0.5;
   transition: opacity 0.15s ease;
